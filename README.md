@@ -1,4 +1,4 @@
-# Nazwa Projektu: PJATK DATA SCIENCE DOJO RECRUITMENT 
+# PJATK DATA SCIENCE DOJO RECRUITMENT 
 
 ## Opis: 
 Projekt skupia się na przeanalizowaniu dataset'u o tematyce przestępczości w Nowym Jorku  dostarczonego przez departament policji(NYPD), a udostępniony na stronie https://opendata.cityofnewyork.us. Celem projektu jest stworzenie modelu Machine Learning'owego do klasyfikacji oraz korelacji przestępstw. 
