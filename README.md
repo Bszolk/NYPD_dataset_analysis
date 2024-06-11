@@ -16,6 +16,7 @@ Jupyter Notebook
 
 ### Wymagania 
 - Python wersja min. 3.8
+- Biblioteki z pliku `requirements.txt`
 - Dowolne IDE obsługujące JupyterNotebook
 
 ### Jak korzystać 
