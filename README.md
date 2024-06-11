@@ -29,4 +29,4 @@ Jupyter Notebook
 W przypadku pytań lub problemów proszę o kontakt przez Issues w repozytorium GitHub.
 
 ## Licencja
-Ten projekt jest udostępniany na licencji MIT. Szczegóły znajdziesz w pliku LICENSE.
+Ten projekt jest licencjonowany na warunkach Apache License 2.0. Pełny tekst licencji znajdziesz w pliku `LICENSE`.
